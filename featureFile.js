@@ -1,1 +1,1 @@
-console.log('first commit of my feature');
+console.log('second commit of my feature');
